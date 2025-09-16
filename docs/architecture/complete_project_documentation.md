@@ -1,4 +1,4 @@
-# AI-SES Suite: Complete Project Documentation
+# Integrow: Complete Project Documentation
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -17,10 +17,10 @@
 ## Project Overview
 
 ### Vision Statement
-AI-SES Suite is an integrated AI-driven software engineering pipeline that automates and enhances every stage of the development lifecycle from requirements analysis to deployment.
+Integrow is an integrated AI-driven software engineering pipeline that automates and enhances every stage of the development lifecycle from requirements analysis to deployment.
 
 ### Core Problem Solved
-Modern software development suffers from fragmented tools that operate in silos, leading to inconsistencies between requirements, design, code, and tests. AI-SES Suite provides a unified platform that maintains consistency across all development artifacts through intelligent automation.
+Integrow suffers from fragmented tools that operate in silos, leading to inconsistencies between requirements, design, code, and tests. Integrow provides a unified platform that maintains consistency across all development artifacts through intelligent automation.
 
 ### Target Users
 - **Software Developers**: Primary users seeking AI-powered coding assistance
@@ -91,7 +91,7 @@ Modern software development suffers from fragmented tools that operate in silos,
 - **Backend**: Next.js API Routes + Server Actions + Node.js
 - **AI/ML**: TensorFlow.js + Transformers.js + Natural NLP
 - **Database**: SQLite with Prisma ORM
-- **Development**: Turborepo monorepo + pnpm workspaces
+- **Development**: Standard npm workspaces
 - **Deployment**: Vercel/Netlify or self-hosted Docker
 
 ---
